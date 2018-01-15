@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37524036-3561-4ad7-9d7c-d6a8e3b31f5e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/particles-plugin.js" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/images/avatar2.jpg" afterPath="$PROJECT_DIR$/images/avatar.jpg" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,10 +21,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="98" column="12" lean-forward="true" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="12" />
+            <state relative-caret-position="177">
+              <caret line="73" column="111" lean-forward="false" selection-start-line="73" selection-start-column="111" selection-end-line="73" selection-end-column="111" />
               <folding>
-                <element signature="e#2896#2902#0" expanded="true" />
+                <element signature="e#2961#2967#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -145,12 +144,6 @@
             <path>
               <item name="MyWebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyWebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyWebsite" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -195,12 +188,12 @@
       <workItem from="1515927624896" duration="5050000" />
       <workItem from="1516019018602" duration="9751000" />
       <workItem from="1516033942654" duration="12000" />
-      <workItem from="1516033979624" duration="1006000" />
+      <workItem from="1516033979624" duration="2441000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15819000" />
+    <option name="totallyTimeSpent" value="17254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1317" y="-14" width="1318" height="783" extended-state="6" />
@@ -241,7 +234,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2896#2902#0" expanded="true" />
+            <element signature="e#2961#2967#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -267,7 +260,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2896#2902#0" expanded="true" />
+            <element signature="e#2961#2967#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -293,7 +286,7 @@
         <state relative-caret-position="980">
           <caret line="70" column="68" lean-forward="false" selection-start-line="70" selection-start-column="68" selection-end-line="70" selection-end-column="68" />
           <folding>
-            <element signature="e#2896#2902#0" expanded="true" />
+            <element signature="e#2961#2967#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -402,10 +395,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="98" column="12" lean-forward="true" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="12" />
+        <state relative-caret-position="177">
+          <caret line="73" column="111" lean-forward="false" selection-start-line="73" selection-start-column="111" selection-end-line="73" selection-end-column="111" />
           <folding>
-            <element signature="e#2896#2902#0" expanded="true" />
+            <element signature="e#2961#2967#0" expanded="true" />
           </folding>
         </state>
       </provider>
